@@ -20,6 +20,13 @@ Xiaoran Li                      x832li@uwaterloo.ca
 Giuliana Siddi Moreau           julie@crs4.it  
 ----------------------------------------------------------------
 
+Work done
+----------
+* Implementation of E91 protocol
+* Run standard experiment
+* Run experiment on lossy channel (fidelity=0.9)
+
+
 ```
 
 # Quantum Internet Hackathon 2022: QKD Challenge
