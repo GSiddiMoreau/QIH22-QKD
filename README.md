@@ -36,6 +36,10 @@ Possibly implement BBM92 as well
 Compare BB84 (available in the documentation), E91 and BBM92 
 
 
+Remark
+------
+To get useful results we set the timeout to 180
+
 ```
 
 # Quantum Internet Hackathon 2022: QKD Challenge
