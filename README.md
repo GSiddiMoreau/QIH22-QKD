@@ -29,6 +29,7 @@ Work done
 
 What needs to be done next
 ---------------------------
+Still need to integrate codes with autocheck and test_case
 Results analysis
 Eavesdropping
 Possibly implement BBM92 as well
