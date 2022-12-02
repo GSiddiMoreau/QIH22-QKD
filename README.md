@@ -1,3 +1,27 @@
+
+# Quantum Internet Hackathon 2022: QKD Challenge
+```
+
+  ####   #    #  #    #     #    #####    ####
+ #    #  #    #  #   #      #    #    #  #    #
+ #    #  #    #  ####       #    #    #  #    #
+ #  # #  #    #  #  #       #    #    #  #    #
+ #   #   #    #  #   #      #    #    #  #    #
+  ### #   ####   #    #     #    #####    ####
+
+
+Team Qukido
+===========
+
+Components                      Email
+----------------------------------------------------------------
+David Liu                       liud@pfw.edu 
+Xiaoran Li                      x832li@uwaterloo.ca 
+Giuliana Siddi Moreau           julie@crs4.it  
+----------------------------------------------------------------
+
+```
+
 # Quantum Internet Hackathon 2022: QKD Challenge
 
 In this challenge you will have the possibility to implement your own QKD
