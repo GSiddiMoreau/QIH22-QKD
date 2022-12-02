@@ -32,7 +32,7 @@ What needs to be done next
 Results analysis
 Eavesdropping
 Possibly implement BBM92 as well
-Compare BB84, E91 and BBM92 
+Compare BB84 (available in the documentation), E91 and BBM92 
 
 
 ```
