@@ -1,0 +1,1020 @@
+- app_alice:
+    diff_outcome_count: 3
+    key_rate_potential: -0.05872173057472874
+    outcome_comparison_count: 25
+    qber: 0.12
+    raw_key: '[1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1]'
+    same_basis_count: 38
+    table:
+    - - 0
+      - X
+      - false
+      - 1
+      - '-'
+    - - 1
+      - X
+      - false
+      - 0
+      - '-'
+    - - 2
+      - X
+      - true
+      - 1
+      - true
+    - - 3
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 4
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 5
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 6
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 7
+      - Z
+      - true
+      - 1
+      - true
+    - - 8
+      - X
+      - false
+      - 0
+      - '-'
+    - - 9
+      - X
+      - true
+      - 1
+      - '-'
+    - - 10
+      - X
+      - true
+      - 1
+      - '-'
+    - - 11
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 12
+      - X
+      - true
+      - 1
+      - true
+    - - 13
+      - X
+      - false
+      - 0
+      - '-'
+    - - 14
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 15
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 16
+      - Z
+      - true
+      - 1
+      - true
+    - - 17
+      - Z
+      - true
+      - 0
+      - true
+    - - 18
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 19
+      - X
+      - false
+      - 0
+      - '-'
+    - - 20
+      - X
+      - true
+      - 1
+      - '-'
+    - - 21
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 22
+      - X
+      - true
+      - 0
+      - '-'
+    - - 23
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 24
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 25
+      - X
+      - true
+      - 1
+      - '-'
+    - - 26
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 27
+      - X
+      - false
+      - 0
+      - '-'
+    - - 28
+      - X
+      - false
+      - 0
+      - '-'
+    - - 29
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 30
+      - X
+      - false
+      - 1
+      - '-'
+    - - 31
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 32
+      - X
+      - false
+      - 1
+      - '-'
+    - - 33
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 34
+      - X
+      - false
+      - 1
+      - '-'
+    - - 35
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 36
+      - X
+      - false
+      - 1
+      - '-'
+    - - 37
+      - X
+      - true
+      - 1
+      - true
+    - - 38
+      - X
+      - false
+      - 1
+      - '-'
+    - - 39
+      - Z
+      - true
+      - 0
+      - true
+    - - 40
+      - X
+      - false
+      - 0
+      - '-'
+    - - 41
+      - X
+      - false
+      - 0
+      - '-'
+    - - 42
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 43
+      - Z
+      - true
+      - 0
+      - true
+    - - 44
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 45
+      - X
+      - false
+      - 0
+      - '-'
+    - - 46
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 47
+      - Z
+      - true
+      - 0
+      - true
+    - - 48
+      - Z
+      - true
+      - 0
+      - true
+    - - 49
+      - Z
+      - true
+      - 0
+      - true
+    - - 50
+      - X
+      - false
+      - 1
+      - '-'
+    - - 51
+      - X
+      - false
+      - 0
+      - '-'
+    - - 52
+      - X
+      - true
+      - 0
+      - true
+    - - 53
+      - Z
+      - true
+      - 1
+      - true
+    - - 54
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 55
+      - Z
+      - true
+      - 0
+      - '-'
+    - - 56
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 57
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 58
+      - Z
+      - true
+      - 1
+      - true
+    - - 59
+      - X
+      - false
+      - 1
+      - '-'
+    - - 60
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 61
+      - Z
+      - true
+      - 0
+      - true
+    - - 62
+      - X
+      - false
+      - 1
+      - '-'
+    - - 63
+      - X
+      - true
+      - 0
+      - false
+    - - 64
+      - Z
+      - true
+      - 0
+      - true
+    - - 65
+      - Z
+      - true
+      - 0
+      - false
+    - - 66
+      - X
+      - false
+      - 1
+      - '-'
+    - - 67
+      - Z
+      - true
+      - 1
+      - false
+    - - 68
+      - X
+      - false
+      - 1
+      - '-'
+    - - 69
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 70
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 71
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 72
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 73
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 74
+      - X
+      - false
+      - 1
+      - '-'
+    - - 75
+      - X
+      - false
+      - 0
+      - '-'
+    - - 76
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 77
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 78
+      - X
+      - false
+      - 1
+      - '-'
+    - - 79
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 80
+      - Z
+      - true
+      - 0
+      - '-'
+    - - 81
+      - Z
+      - true
+      - 0
+      - true
+    - - 82
+      - X
+      - false
+      - 1
+      - '-'
+    - - 83
+      - X
+      - true
+      - 1
+      - true
+    - - 84
+      - Z
+      - true
+      - 1
+      - true
+    - - 85
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 86
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 87
+      - X
+      - true
+      - 0
+      - true
+    - - 88
+      - Z
+      - true
+      - 0
+      - true
+    - - 89
+      - Z
+      - true
+      - 0
+      - true
+    - - 90
+      - X
+      - false
+      - 1
+      - '-'
+    - - 91
+      - X
+      - false
+      - 0
+      - '-'
+    - - 92
+      - X
+      - false
+      - 0
+      - '-'
+    - - 93
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 94
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 95
+      - X
+      - true
+      - 1
+      - '-'
+    - - 96
+      - X
+      - false
+      - 0
+      - '-'
+    - - 97
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 98
+      - X
+      - false
+      - 1
+      - '-'
+    - - 99
+      - Z
+      - true
+      - 1
+      - '-'
+    x_basis_count: 184
+    z_basis_count: -84
+  app_bob:
+    diff_outcome_count: 3
+    key_rate_potential: -0.05872173057472874
+    outcome_comparison_count: 25
+    qber: 0.12
+    raw_key: '[1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1]'
+    same_basis_count: 38
+    table:
+    - - 0
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 1
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 2
+      - X
+      - true
+      - 1
+      - true
+    - - 3
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 4
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 5
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 6
+      - X
+      - false
+      - 0
+      - '-'
+    - - 7
+      - Z
+      - true
+      - 1
+      - true
+    - - 8
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 9
+      - X
+      - true
+      - 1
+      - '-'
+    - - 10
+      - X
+      - true
+      - 1
+      - '-'
+    - - 11
+      - X
+      - false
+      - 0
+      - '-'
+    - - 12
+      - X
+      - true
+      - 1
+      - true
+    - - 13
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 14
+      - X
+      - false
+      - 1
+      - '-'
+    - - 15
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 16
+      - Z
+      - true
+      - 1
+      - true
+    - - 17
+      - Z
+      - true
+      - 0
+      - true
+    - - 18
+      - X
+      - false
+      - 0
+      - '-'
+    - - 19
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 20
+      - X
+      - true
+      - 1
+      - '-'
+    - - 21
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 22
+      - X
+      - true
+      - 0
+      - '-'
+    - - 23
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 24
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 25
+      - X
+      - true
+      - 1
+      - '-'
+    - - 26
+      - X
+      - false
+      - 1
+      - '-'
+    - - 27
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 28
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 29
+      - Z
+      - true
+      - 1
+      - '-'
+    - - 30
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 31
+      - X
+      - false
+      - 0
+      - '-'
+    - - 32
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 33
+      - X
+      - false
+      - 1
+      - '-'
+    - - 34
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 35
+      - X
+      - false
+      - 1
+      - '-'
+    - - 36
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 37
+      - X
+      - true
+      - 1
+      - true
+    - - 38
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 39
+      - Z
+      - true
+      - 0
+      - true
+    - - 40
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 41
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 42
+      - X
+      - false
+      - 1
+      - '-'
+    - - 43
+      - Z
+      - true
+      - 0
+      - true
+    - - 44
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 45
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 46
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 47
+      - Z
+      - true
+      - 0
+      - true
+    - - 48
+      - Z
+      - true
+      - 0
+      - true
+    - - 49
+      - Z
+      - true
+      - 0
+      - true
+    - - 50
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 51
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 52
+      - X
+      - true
+      - 0
+      - true
+    - - 53
+      - Z
+      - true
+      - 1
+      - true
+    - - 54
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 55
+      - Z
+      - true
+      - 0
+      - '-'
+    - - 56
+      - X
+      - false
+      - 0
+      - '-'
+    - - 57
+      - X
+      - false
+      - 0
+      - '-'
+    - - 58
+      - Z
+      - true
+      - 1
+      - true
+    - - 59
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 60
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 61
+      - Z
+      - true
+      - 0
+      - true
+    - - 62
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 63
+      - X
+      - true
+      - 1
+      - false
+    - - 64
+      - Z
+      - true
+      - 0
+      - true
+    - - 65
+      - Z
+      - true
+      - 1
+      - false
+    - - 66
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 67
+      - Z
+      - true
+      - 0
+      - false
+    - - 68
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 69
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 70
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 71
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 72
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 73
+      - X
+      - false
+      - 1
+      - '-'
+    - - 74
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 75
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 76
+      - X
+      - false
+      - 0
+      - '-'
+    - - 77
+      - X
+      - false
+      - 1
+      - '-'
+    - - 78
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 79
+      - X
+      - false
+      - 0
+      - '-'
+    - - 80
+      - Z
+      - true
+      - 0
+      - '-'
+    - - 81
+      - Z
+      - true
+      - 0
+      - true
+    - - 82
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 83
+      - X
+      - true
+      - 1
+      - true
+    - - 84
+      - Z
+      - true
+      - 1
+      - true
+    - - 85
+      - X
+      - false
+      - 0
+      - '-'
+    - - 86
+      - X
+      - false
+      - 0
+      - '-'
+    - - 87
+      - X
+      - true
+      - 0
+      - true
+    - - 88
+      - Z
+      - true
+      - 0
+      - true
+    - - 89
+      - Z
+      - true
+      - 0
+      - true
+    - - 90
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 91
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 92
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 93
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 94
+      - X
+      - false
+      - 1
+      - '-'
+    - - 95
+      - X
+      - true
+      - 1
+      - '-'
+    - - 96
+      - Z
+      - false
+      - 1
+      - '-'
+    - - 97
+      - X
+      - false
+      - 1
+      - '-'
+    - - 98
+      - Z
+      - false
+      - 0
+      - '-'
+    - - 99
+      - Z
+      - true
+      - 1
+      - '-'
+    x_basis_count: 199
+    z_basis_count: -99
