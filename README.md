@@ -12,12 +12,14 @@
 
 Team Qukido
 ===========
+(Qukido == Quantum Aikido)
+
 
 Components                      Email
 ----------------------------------------------------------------
-David Liu                       liud@pfw.edu 
-Xiaoran Li                      x832li@uwaterloo.ca 
-Giuliana Siddi Moreau           julie@crs4.it  
+Giuliana Siddi Moreau           julie@crs4.it
+David Liu                       dqliu@purdue.edu
+Xiaoran Li                      x832li@uwaterloo.ca  
 ----------------------------------------------------------------
 
 Work done
