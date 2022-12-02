@@ -27,6 +27,13 @@ Work done
 * Run experiment on lossy channel (fidelity=0.9)
 
 
+What needs to be done next
+---------------------------
+Eavesdropping
+Possibly implement BBM92 as well
+Compare BB84, E91 and BBM92 
+
+
 ```
 
 # Quantum Internet Hackathon 2022: QKD Challenge
