@@ -29,6 +29,7 @@ Work done
 
 What needs to be done next
 ---------------------------
+Results analysis
 Eavesdropping
 Possibly implement BBM92 as well
 Compare BB84, E91 and BBM92 
