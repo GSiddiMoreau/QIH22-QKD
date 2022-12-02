@@ -1,3 +1,43 @@
+
+# Quantum Internet Hackathon 2022: QKD Challenge
+```
+
+  ####   #    #  #    #     #    #####    ####
+ #    #  #    #  #   #      #    #    #  #    #
+ #    #  #    #  ####       #    #    #  #    #
+ #  # #  #    #  #  #       #    #    #  #    #
+ #   #   #    #  #   #      #    #    #  #    #
+  ### #   ####   #    #     #    #####    ####
+
+
+Team Qukido
+===========
+
+Components                      Email
+----------------------------------------------------------------
+David Liu                       liud@pfw.edu 
+Xiaoran Li                      x832li@uwaterloo.ca 
+Giuliana Siddi Moreau           julie@crs4.it  
+----------------------------------------------------------------
+
+Work done
+----------
+* Implementation of E91 protocol
+* Run standard experiment
+* Run experiment on lossy channel (fidelity=0.9)
+
+
+What needs to be done next
+---------------------------
+Still need to integrate codes with autocheck and test_case
+Results analysis
+Eavesdropping
+Possibly implement BBM92 as well
+Compare BB84 (available in the documentation), E91 and BBM92 
+
+
+```
+
 # Quantum Internet Hackathon 2022: QKD Challenge
 
 In this challenge you will have the possibility to implement your own QKD
