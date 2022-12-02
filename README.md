@@ -18,7 +18,7 @@ Team Qukido
 Components                      Email
 ----------------------------------------------------------------
 Giuliana Siddi Moreau           julie@crs4.it
-David Liu                       dqliu@purdue.edu
+David Liu                       liud@pfw.edu
 Xiaoran Li                      x832li@uwaterloo.ca  
 ----------------------------------------------------------------
 
